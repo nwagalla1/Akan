@@ -1,17 +1,4 @@
-ul {
-    list-style-type: none;
-}
-li {
-    display: inline;
-    padding: 10px;
-}
-
-li a {
-    text-decoration: none;
-    color: black;
-    font-size: 1.5em;
-}
-
-li a:hover {
-    text-decoration: underline;
+body {
+    background: url(../images/africa-animal-animals-417142.jpg) center center/cover no-repeat; 
+    height: 100vh;
 }
