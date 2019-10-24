@@ -65,5 +65,11 @@ input {
     padding: 10px;
     border-radius: 6px;
     text-decoration: none;
-    margin-left: 110px;
+    
+}
+
+.button:hover {
+    color: rgb(230, 216, 216);
+    background: maroon;
+    letter-spacing: 1px;
 }
