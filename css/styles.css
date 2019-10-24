@@ -33,6 +33,11 @@ h1 {
     margin-left: 40px;
 }
 
+h2 {
+    font-size: 1.3em;
+    text-align: center;
+}
+
 .form {
     width: 450px;
     height: 500px;
@@ -46,4 +51,19 @@ h1 {
     margin: 0 auto;
     justify-content: space-between;
 
+}
+
+input {
+    width: 50%;
+    display: block;
+    margin: 20px auto;
+}
+
+.button {
+    color: rgb(240, 229, 229);
+    background: crimson;
+    padding: 10px;
+    border-radius: 6px;
+    text-decoration: none;
+    margin-left: 110px;
 }
