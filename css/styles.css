@@ -43,7 +43,7 @@ h2 {
     height: 500px;
     background-color: #A6652D;
     margin-right: 20px;
-    border-left: 3px solid black;
+    border: 2.5px solid black;
 }
 
 #content {
