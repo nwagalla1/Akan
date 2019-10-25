@@ -41,7 +41,7 @@ h2 {
 .form {
     width: 450px;
     height: 500px;
-    background-color: chocolate;
+    background-color: #A6652D;
     margin-right: 20px;
     border-left: 3px solid black;
 }
@@ -58,6 +58,11 @@ input {
     display: block;
     margin: 20px auto;
 }
+select {
+    width: 30%;
+    display: block;
+    margin: 20px auto;
+}
 
 .button {
     color: rgb(240, 229, 229);
@@ -65,8 +70,7 @@ input {
     padding: 10px;
     border-radius: 6px;
     text-decoration: none;
-    
-}
+    }
 
 .button:hover {
     color: rgb(230, 216, 216);
