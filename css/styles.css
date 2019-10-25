@@ -81,3 +81,9 @@ select {
     background: maroon;
     letter-spacing: 1px;
 }
+
+.reset {
+    width: 18%;
+    background-image: url("/images/redo-alt-solid.svg");
+    background-repeat: no-repeat;
+}
