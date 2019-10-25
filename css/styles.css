@@ -70,6 +70,10 @@ select {
     padding: 10px;
     border-radius: 6px;
     text-decoration: none;
+    display: block  ;
+    margin: 0 auto;
+    width: 30%;
+    text-align: center;
     }
 
 .button:hover {
