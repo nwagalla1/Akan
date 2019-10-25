@@ -20,12 +20,12 @@
            </p>
            <p>
                Akan names are derived from the Ghananian Culture. With Akan names, a new-born's first name is derived
-               from the day of the week they were born. Sounds Cool huh! Fill the form on the right to know your Akan
-               name.
+               from the day of the week they were born, male and females are assigned separate names depending on their gender. Sounds Cool huh! 
+               Fill the form on the right to know your Akan name.
            </p>
            <figure>
                 <img src="images/grace.png" width="400">
-                <figcaption>Ghananian Akan Names</figcaption>
+                <figcaption><em>Ghananian Akan Names</em></figcaption>
            </figure>           
 
        </div>
@@ -33,9 +33,9 @@
        <div class="form">
            <h2>Enter your details below:</h2>
             <form action="">
-              <input type="number" placeholder="Day of Birth">
-              <input type="number" placeholder="Month of Birth">
-              <input type="number" placeholder="Year of Birth">
+              <input type="number" placeholder="Day of Birth" required="required" maxlength="2">
+              <input type="number" placeholder="Month of Birth" required="required" maxlength="2">
+              <input type="number" placeholder="Year of Birth" required="required" maxlength="4">
             
               <select name="sex">
                 <option value="male">Male</option>
@@ -43,6 +43,7 @@
              </select>
 
               <a href="" class="button">Get your Akan</a>
+              <button type="submit"  onClick="refreshPage()">Refresh Button</button>
             </form>
        </div>
     </div>
