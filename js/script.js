@@ -18,9 +18,9 @@ submit.addEventListener("click", function display() {
   const femaleNames = ["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
   ``;
   if (yy < 1900 && yy < 3001) {
-    display.style.background = "red";
-    display.style.color = "#ffffff";
-    display.innerHTML = `Fala, enter a valid date`;
+    display.style.background = "rgb(27, 12, 5)";
+    display.style.color = "lightblue";
+    display.innerHTML = `Please enter a valid date`;
   } else if (male.checked) {
     display.innerHTML = `Hello Papagena, you were born on a ${days[dayOfBirth]} and your Akan name is ${maleNames[dayOfBirth]} `;
   } else {
