@@ -35,7 +35,7 @@ My Number 041 224 77 32
 
 ## Known Bugs
 
-With the correct dates with an empty gender selection, the application will think your female and give you the respective Akan Name.
+With the correct dates with an empty gender selection, the application will automatically mark you as female and display the respective Akan Name.
 
 Akan Names once generated will appear on top of the forms unless you refresh the page.
 
