@@ -1,6 +1,6 @@
 # Online Akan Name Generator
 
-## Author: Nixon Wagalla [@nwagalla1](https://github.com/nwagalla1) )
+## Author: Nixon Wagalla [@nwagalla1](https://github.com/nwagalla1)
 
 Welcome to our Online Akan Name Generator. With this Web-based application, 
 you're able to know your Akan name by simply entering your birth details i.e. 
