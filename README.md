@@ -29,7 +29,7 @@ This Web-based application was built with the following:
 
 ## Contact 
 
-Always reachable at [Nixon Wagalla](href="mailto:nixon.wagalla@mail.de")
+Always reachable at [Nixon Wagalla](nixon.wagalla@mail.de")
 
 My Number 041 224 77 32
 
